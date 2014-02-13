@@ -8,7 +8,7 @@ So I set up an open source, community bid for the project. I got a wiki running,
 
 After sending it in, I felt nervous about cranking up the price that high. It seemed like a huge amount of money to charge for what needed to be done considering how many experts we had on-staff that could craft a great website for this kind of thing almost in their spare time!
 
-Recovery.gov ended up costing $19 Million dollars. We at Sunlight, were not even eligible to bid on the contract, so we, perhaps the nation's leading experts on web-based transparency projects like Recovery.gov, did not even make it to the first round in the bidding process.
+Recovery.gov ended up costing $19 Million dollars. We at Sunlight were not even eligible to bid on the contract. In fact we, perhaps the nation's leading experts on web-based transparency projects like Recovery.gov, did not even make it to the first round in the bidding process.
 
 That was my first experience with government procurement. And it is when I started talking about it as something I thought needed changes.
 
