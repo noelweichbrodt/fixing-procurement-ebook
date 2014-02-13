@@ -12,7 +12,7 @@ Recovery.gov ended up costing $19 Million dollars. We at Sunlight were not even 
 
 That was my first experience with government procurement. And it is when I started talking about it as something I thought needed changes.
 
-Three years later, the White House called. They were setting up a "Presidential Innovation Fellowship" and wanted to work on ways to get new companies into government contracting. And they wanted me to lead a team of people to do that. It'd take six months, but the goals were clear: find ways to reduce cost, increase competition, and increase the level of talent.
+Three years later, the White House called. They were setting up a "Presidential Innovation Fellowship" to work on ways to get new companies into government contracting, and they wanted me to lead a team of people to do that. It'd take six months, but the goals were clear: find ways to reduce cost, increase competition, and increase the level of talent.
 
 My team included Adam Becker (now my partner at the Department of Better Technology) and Jed Wood, both strong developers. Like me, they had never been immersed into this space, but were frustrated by it. Government, after all, is a place where programmers can use their skills to have huge affects on society at large. 
 
